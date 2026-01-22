@@ -1,0 +1,220 @@
+"STEAM_0:0:899220990"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"oxoQAQ"
+	"group"	"user"
+}
+"STEAM_0:0:507011539"	
+{
+	"name"	"SINKING_FOX"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"高管"
+}
+"STEAM_0:0:157682085"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"OberTechno"
+	"group"	"[OGRX]DEVTEAM"
+}
+"STEAM_0:1:21632615"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Project-pQ"
+	"group"	"admin"
+}
+"STEAM_0:1:441842017"	
+{
+	"name"	"𝓐𝔃𝓾𝓴𝓾𝓶𝓪."
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:186691250"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Magi"
+	"group"	"主管"
+}
+"STEAM_0:1:570908613"	
+{
+	"name"	"叶子"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:0:111695979"	
+{
+	"name"	"东方食神幽幽子"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"高管"
+}
+"STEAM_0:0:454531613"	
+{
+	"name"	"Shaky"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:533876141"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"音理"
+	"group"	"主管"
+}
+"STEAM_0:0:427377252"	
+{
+	"name"	"DUCK"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:533244245"	
+{
+	"allow"	
+	{
+	}
+	"name"	"SkywardDive"
+	"deny"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:0:619230239"	
+{
+	"name"	"MoQing_Cyank"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"主管"
+}
+"STEAM_0:0:574587994"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Clementina"
+	"group"	"高管"
+}
+"STEAM_0:1:431182368"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Mio"
+	"group"	"superadmin"
+}
+"STEAM_0:0:240925085"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"该 隐"
+	"group"	"主管"
+}
+"STEAM_0:1:562533153"	
+{
+	"name"	"白藏"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:0:95881772"	
+{
+	"name"	"セイウンスカイ"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:0:38555087"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"BlackAN"
+	"group"	"superadmin"
+}
+"STEAM_0:1:512214039"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Dicrment"
+	"group"	"高管"
+}
